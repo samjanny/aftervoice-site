@@ -40,6 +40,19 @@ sprechen.
 Die Absturzberichte, die der Autor sieht, kommen von Google Play, aggregiert und anonym, und
 beschreiben, wie sich die App verhalten hat, nie, was deine Sitzungen enthielten.
 
+## Meldungen und Support
+
+Wenn du bei einer Aufnahme auf **Melden** tippst, öffnet Aftervoice einen Entwurf in deiner
+E-Mail-App. Er enthält die App-Version, die Sprache der Oberfläche sowie zufällige Sitzungs- und
+Aufnahmekennungen. Audio, Mikrofonspur, Notizen oder Marken werden nicht angehängt. Es wird nichts
+gesendet, bis du in der E-Mail-App selbst auf Senden tippst.
+
+Wenn du die Nachricht sendest, stellt dein E-Mail-Anbieter sie Altrove Labs zu. Wir erhalten
+dann deine Absenderadresse, deine Ergänzungen und die im Entwurf sichtbaren technischen Angaben.
+Wir verwenden sie nur, um zu antworten und erzeugtes Audio zu verbessern oder zu moderieren,
+geben sie nicht für andere Zwecke weiter und bewahren sie nur so lange auf, wie die Bearbeitung
+der Meldung es erfordert. Du kannst uns unter derselben Adresse um Löschung bitten.
+
 ## Die Mikrofonberechtigung
 
 Aftervoice fragt nach einer einzigen Berechtigung, **dem Mikrofon**, und benutzt sie an zwei
@@ -88,10 +101,10 @@ sie ist der Raum, in dem du warst.
 
 Für Fragen zu dieser Erklärung: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
-Verantwortlich für die Verarbeitung: **Altrove Labs**. Da keine personenbezogenen Daten dein
-Gerät verlassen, gibt es auf unserer Seite keine Verarbeitung, gegenüber der die Rechte der
-DSGVO auszuüben wären: die Daten sind in deinem Besitz und unter deiner Kontrolle, auf deinem
-Telefon.
+Verantwortlich für die Verarbeitung: **Altrove Labs**. Tagebuchdaten und Aufnahmen bleiben in
+deinem Besitz und unter deiner Kontrolle auf deinem Telefon. Wir verarbeiten nur Mitteilungen,
+die du selbst an den Support sendest; deine Rechte nach der DSGVO kannst du über die oben
+genannte Adresse ausüben.
 
 ## Änderungen
 

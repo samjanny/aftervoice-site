@@ -34,5 +34,5 @@ gate and update the measured examples whenever that value changes.
 
 Every claim in the policy corresponds to a property of the release: permissions in the
 manifest, backup rules in `res/xml/`, storage under `filesDir`, and the mark applied before both
-speaker and recorder. If reporting is added, the privacy policy and Play Data Safety answers
-must describe precisely what the report sends and how long it is retained.
+speaker and recorder. Reporting opens a visible draft in the user's mail app with technical
+identifiers and no attachment; Aftervoice itself keeps no Internet permission.

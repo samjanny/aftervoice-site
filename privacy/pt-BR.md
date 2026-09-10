@@ -40,6 +40,19 @@ conversem com um servidor.
 Os relatórios de falha que o autor recebe vêm do Google Play, agregados e anônimos, e descrevem
 como o aplicativo se comportou, nunca o que suas sessões continham.
 
+## Relatos e suporte
+
+Ao tocar em **Relatar** em uma gravação, o Aftervoice abre um rascunho no seu aplicativo de
+e-mail. O rascunho contém a versão do aplicativo, o idioma da interface e identificadores
+aleatórios da sessão e da gravação. Não anexa áudio, faixa do microfone, notas nem marcadores.
+Nada é enviado até você escolher Enviar no aplicativo de e-mail.
+
+Se você enviar a mensagem, seu provedor de e-mail a entrega à Altrove Labs. Recebemos o endereço
+de onde você escreveu, o que você acrescentar à mensagem e os dados técnicos visíveis no
+rascunho. Usamos essas informações apenas para responder e melhorar ou moderar o áudio gerado,
+não as compartilhamos para outros fins e as guardamos somente pelo tempo necessário para tratar
+o relato. Você pode pedir a exclusão escrevendo para o mesmo endereço.
+
 ## A permissão de microfone
 
 O Aftervoice pede uma única permissão, **o microfone**, e a usa em dois lugares:
@@ -85,9 +98,10 @@ estava.
 
 Para dúvidas sobre esta política: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
-Responsável pelo tratamento: **Altrove Labs**. Como nenhum dado pessoal sai do seu aparelho,
-não há tratamento da nossa parte sobre o qual exercer os direitos do GDPR: os dados estão em seu
-poder e sob seu controle, no seu telefone.
+Responsável pelo tratamento: **Altrove Labs**. Os dados do diário e as gravações permanecem em
+seu poder e sob seu controle, no seu telefone. Tratamos apenas as comunicações que você decide
+enviar ao suporte; você pode exercer seus direitos previstos no GDPR escrevendo para o endereço
+acima.
 
 ## Alterações
 

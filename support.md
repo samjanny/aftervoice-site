@@ -12,11 +12,12 @@ Write in Italian or English; either is fine.
 ## Reporting generated audio
 
 Aftervoice makes syllables, not messages. If a combination sounds offensive, discriminatory or
-otherwise inappropriate, write to the support address above. The report is about the app's
-output; it is not presented as a message from a person or a presence.
+otherwise inappropriate, use **Report** on its recording in the archive. The report is about
+the app's output; it is not presented as a message from a person or a presence.
 
-You do not need to send a recording. If you choose to attach one, the archive's Share action
-exports the app-generated track and does not include the separate room microphone track.
+Aftervoice opens a draft in your mail app containing its version, interface language and random
+session and recording identifiers. It attaches no audio, room microphone track, diary text or
+bookmark. You can read and edit the complete message, or close it without sending anything.
 
 ## Common questions
 

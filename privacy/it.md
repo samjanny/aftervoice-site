@@ -39,6 +39,19 @@ terze parti che parlino con un server.
 Le segnalazioni di crash che l'autore riceve arrivano da Google Play, in forma aggregata e
 anonima, e riguardano il funzionamento dell'app, mai il contenuto delle tue sessioni.
 
+## Segnalazioni e assistenza
+
+Se tocchi **Segnala** su una registrazione, Aftervoice apre una bozza nella tua app email. La
+bozza contiene la versione dell'app, la lingua dell'interfaccia e gli identificatori casuali
+della sessione e della registrazione. Non allega audio, traccia microfono, note o segnalibri.
+Nulla viene inviato finché non scegli tu di premere Invia nell'app email.
+
+Se invii il messaggio, il tuo fornitore di posta lo consegna ad Altrove Labs. Riceviamo quindi
+l'indirizzo dal quale scrivi, ciò che aggiungi al messaggio e i dati tecnici visibili nella
+bozza. Li usiamo soltanto per rispondere e migliorare o moderare l'audio generato, non li
+condividiamo per altri scopi e li conserviamo solo per il tempo necessario a gestire la
+segnalazione. Puoi chiederne la cancellazione scrivendo allo stesso indirizzo.
+
 ## Il permesso microfono
 
 Aftervoice chiede un solo permesso, **il microfono**, e lo usa in due punti:
@@ -86,9 +99,10 @@ non è audio generato — è la stanza in cui eri.
 
 Per domande su questa informativa: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
-Titolare del trattamento: **Altrove Labs**. Poiché nessun dato personale lascia il tuo
-dispositivo, non c'è alcun trattamento da parte nostra su cui esercitare i diritti previsti
-dal GDPR: i dati sono in tuo possesso e sotto il tuo controllo, sul tuo telefono.
+Titolare del trattamento: **Altrove Labs**. I dati del diario e delle registrazioni restano in
+tuo possesso e sotto il tuo controllo, sul telefono. Trattiamo soltanto le comunicazioni che
+decidi di inviare all'assistenza; puoi esercitare i diritti previsti dal GDPR scrivendo
+all'indirizzo indicato sopra.
 
 ## Modifiche
 

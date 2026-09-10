@@ -41,6 +41,21 @@ qui parle à un serveur.
 Les rapports de plantage que l'auteur reçoit viennent de Google Play, agrégés et anonymes, et
 décrivent le comportement de l'application, jamais le contenu de vos sessions.
 
+## Signalements et assistance
+
+Si vous touchez **Signaler** sur un enregistrement, Aftervoice ouvre un brouillon dans votre
+application de courrier. Il contient la version de l'application, la langue de l'interface et
+des identifiants aléatoires de session et d'enregistrement. Aucun audio, piste microphone, note
+ou repère n'est joint. Rien n'est envoyé tant que vous ne choisissez pas Envoyer dans
+l'application de courrier.
+
+Si vous envoyez le message, votre fournisseur de courrier le transmet à Altrove Labs. Nous
+recevons alors l'adresse depuis laquelle vous écrivez, ce que vous ajoutez au message et les
+données techniques visibles dans le brouillon. Nous les utilisons uniquement pour répondre et
+améliorer ou modérer l'audio généré, ne les partageons pas à d'autres fins et les conservons
+seulement le temps nécessaire au traitement du signalement. Vous pouvez demander leur
+suppression en écrivant à la même adresse.
+
 ## La permission microphone
 
 Aftervoice demande une seule permission, **le microphone**, et s'en sert à deux endroits :
@@ -88,9 +103,10 @@ l'audio généré — c'est la pièce où vous étiez.
 
 Pour toute question sur cette politique : [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
-Responsable du traitement : **Altrove Labs**. Comme aucune donnée personnelle ne quitte votre
-appareil, il n'y a de notre part aucun traitement sur lequel exercer les droits du RGPD : les
-données sont en votre possession et sous votre contrôle, sur votre téléphone.
+Responsable du traitement : **Altrove Labs**. Les données du journal et les enregistrements
+restent en votre possession et sous votre contrôle, sur votre téléphone. Nous traitons
+uniquement les communications que vous choisissez d'envoyer à l'assistance ; vous pouvez
+exercer vos droits RGPD en écrivant à l'adresse ci-dessus.
 
 ## Modifications
 

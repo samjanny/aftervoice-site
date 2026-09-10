@@ -36,6 +36,19 @@ collection, no advertising, and no third-party libraries that talk to a server.
 The crash reports the author sees come from Google Play, aggregated and anonymous. They
 describe how the app behaved, never what your sessions contained.
 
+## Reports and support
+
+If you tap **Report** on a recording, Aftervoice opens a draft in your email app. The draft
+contains the app version, interface language, and random session and recording identifiers. It
+attaches no audio, microphone track, note, or bookmark. Nothing is sent until you choose Send
+in the email app.
+
+If you send the message, your email provider delivers it to Altrove Labs. We then receive the
+address you write from, anything you add to the message, and the technical details visible in
+the draft. We use them only to respond and to improve or moderate generated audio, do not share
+them for other purposes, and keep them only as long as needed to handle the report. You may ask
+us to delete them by writing to the same address.
+
 ## The microphone permission
 
 Aftervoice asks for one permission, **the microphone**, and uses it in two places:
@@ -81,9 +94,9 @@ generated audio — it is the room you were in.
 
 Questions about this policy: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
-Data controller: **Altrove Labs**. Since no personal data leaves your device, there is no
-processing on our side against which to exercise GDPR rights: the data is in your hands, on
-your phone.
+Data controller: **Altrove Labs**. Diary data and recordings remain in your hands and under
+your control, on your phone. We process only communications you choose to send to support; you
+can exercise your GDPR rights by writing to the address above.
 
 ## Changes
 

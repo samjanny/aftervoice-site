@@ -40,6 +40,19 @@ hablen con un servidor.
 Los informes de fallos que ve el autor llegan de Google Play, agregados y anónimos, y describen
 cómo se comportó la aplicación, nunca qué contenían tus sesiones.
 
+## Informes y asistencia
+
+Si pulsas **Informar** en una grabación, Aftervoice abre un borrador en tu aplicación de correo.
+El borrador contiene la versión de la aplicación, el idioma de la interfaz y los identificadores
+aleatorios de la sesión y la grabación. No adjunta audio, pista de micrófono, notas ni
+marcadores. No se envía nada hasta que tú eliges Enviar en la aplicación de correo.
+
+Si envías el mensaje, tu proveedor de correo lo entrega a Altrove Labs. Recibimos la dirección
+desde la que escribes, lo que añadas al mensaje y los datos técnicos visibles en el borrador.
+Los usamos solo para responder y mejorar o moderar el audio generado, no los compartimos para
+otros fines y los conservamos únicamente durante el tiempo necesario para gestionar el informe.
+Puedes pedir que los eliminemos escribiendo a la misma dirección.
+
 ## El permiso de micrófono
 
 Aftervoice pide un solo permiso, **el micrófono**, y lo usa en dos sitios:
@@ -87,9 +100,9 @@ la que estabas.
 
 Para preguntas sobre esta política: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
-Responsable del tratamiento: **Altrove Labs**. Como ningún dato personal sale de tu
-dispositivo, no hay tratamiento por nuestra parte sobre el que ejercer los derechos del RGPD:
-los datos están en tu poder y bajo tu control, en tu teléfono.
+Responsable del tratamiento: **Altrove Labs**. Los datos del diario y las grabaciones permanecen
+en tu poder y bajo tu control, en tu teléfono. Solo tratamos las comunicaciones que decides
+enviar a asistencia; puedes ejercer tus derechos del RGPD escribiendo a la dirección anterior.
 
 ## Cambios
 
