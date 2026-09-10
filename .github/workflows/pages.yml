@@ -1,0 +1,41 @@
+# Publishes the Markdown in this repository as a static site on GitHub Pages.
+#
+# Jekyll is GitHub's default and needs no configuration for a set of Markdown files, so this
+# is the stock build-and-deploy pair with nothing added. The one thing worth knowing: the
+# privacy policy URL goes into the Play Console and into the app's own strings, so the paths
+# here are load-bearing and must not be renamed once the app has shipped with them.
+name: pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a queued run replaces a waiting one rather than racing it.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,11 @@
+title: Aftervoice
+description: An instrument for listening sessions, by Altrove Labs.
+theme: minima
+url: https://aftervoice.altrovelabs.net
+baseurl: ""
+header_pages:
+  - index.md
+  - support.md
+  - detector.md
+  - licences.md
+
