@@ -15,18 +15,20 @@ Aftervoice makes syllables, not messages. If a combination sounds offensive, dis
 otherwise inappropriate, use **Report** on its recording in the archive. The report is about
 the app's output; it is not presented as a message from a person or a presence.
 
-Aftervoice opens a draft in your mail app containing its version, interface language and random
-session and recording identifiers. It attaches no audio, room microphone track, diary text or
-bookmark. You can read and edit the complete message, or close it without sending anything.
+The report form stays inside Aftervoice. When you choose **Send report**, it sends your text,
+the app version, interface language and random session and recording identifiers over HTTPS.
+It sends no audio, room microphone track, diary note, bookmark, device identifier or email
+address. The confirmation gives you a random reference for later questions or deletion.
 
 ## Common questions
 
 **The app asks to download a voice bank before I can start.** Each language's bank is a model
 of about 120 to 140 MB, and it is not inside the app because most people want one language, not
-six. It downloads once, over Google Play, and after that the app works with no network at all.
+six. It downloads once over Google Play; sessions then work offline.
 
-**Can I use it without a network?** Yes, after that first download. There is no other moment
-when the app wants one, and it has no permission to use one.
+**Can I use it without a network?** Yes, after that first download. Sessions, recording,
+playback and the diary are offline. Sending a report is the only optional action that also
+needs a connection.
 
 **Why does it ask for the microphone?** To record the room beside the app's own sound when you
 press Registra, and for the sonar screen. Refuse it and the app still works; it records only

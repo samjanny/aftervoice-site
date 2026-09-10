@@ -6,14 +6,15 @@ title: Política de privacidade do Aftervoice
 Última atualização: 10 de setembro de 2026.
 
 O Aftervoice é um instrumento para sessões de escuta. Esta política diz o que acontece com os
-dados que o aplicativo produz. É curta porque o aplicativo faz pouco: o que ele gera fica no
-telefone.
+dados que o aplicativo produz. O que ele gera fica no telefone, exceto um relato que você
+decida enviar expressamente.
 
 ## Em resumo
 
-O Aftervoice não tem contas, não tem publicidade, não coleta estatísticas de uso e não tem
-permissão de acessar a rede. Nada do que você grava ou escreve sai do seu telefone, a menos que
-você mesmo compartilhe.
+O Aftervoice não tem contas, publicidade nem estatísticas de uso. Gravações, faixa do microfone,
+diário, notas, marcadores e dados dos sensores não são enviados aos nossos servidores. A rede é
+usada para os bancos de vozes gerenciados pelo Google Play e, somente a seu pedido, para um
+relato de texto.
 
 ## O que fica no telefone
 
@@ -30,28 +31,28 @@ São arquivos privados do aplicativo, no armazenamento dele. Nenhum outro aplica
 pode lê-los. O aplicativo fica fora tanto do backup na nuvem quanto da transferência para um
 telefone novo: se você trocar de aparelho, o diário não vai junto.
 
-## O que nunca sai do telefone
+## O que fica no telefone
 
-Tudo. O aplicativo não pede permissão de acesso à internet, então não pode enviar nada para
-lugar nenhum, nem por engano nem depois de uma atualização que não avise. Não há ferramentas de
-análise, não há coleta de falhas, não há publicidade e não há bibliotecas de terceiros que
-conversem com um servidor.
+Gravações, microfone, diário, configurações, notas, marcadores e dados dos sensores ficam no
+telefone. Não há análise, coleta de falhas, publicidade nem SDKs de rastreamento. O aplicativo
+só entra em contato com a Altrove Labs quando você toca em **Enviar relato**.
 
 Os relatórios de falha que o autor recebe vêm do Google Play, agregados e anônimos, e descrevem
 como o aplicativo se comportou, nunca o que suas sessões continham.
 
 ## Relatos e suporte
 
-Ao tocar em **Relatar** em uma gravação, o Aftervoice abre um rascunho no seu aplicativo de
-e-mail. O rascunho contém a versão do aplicativo, o idioma da interface e identificadores
-aleatórios da sessão e da gravação. Não anexa áudio, faixa do microfone, notas nem marcadores.
-Nada é enviado até você escolher Enviar no aplicativo de e-mail.
+Ao tocar em **Relatar** em uma gravação, você escreve o motivo dentro do Aftervoice. Só ao tocar
+em **Enviar relato**, o aplicativo envia à Altrove Labs por HTTPS o texto, a versão, o idioma da
+interface e identificadores aleatórios da sessão e da gravação. Não envia áudio, faixa do
+microfone, notas, marcadores, identificador do aparelho nem endereço de e-mail.
 
-Se você enviar a mensagem, seu provedor de e-mail a entrega à Altrove Labs. Recebemos o endereço
-de onde você escreveu, o que você acrescentar à mensagem e os dados técnicos visíveis no
-rascunho. Usamos essas informações apenas para responder e melhorar ou moderar o áudio gerado,
-não as compartilhamos para outros fins e as guardamos somente pelo tempo necessário para tratar
-o relato. Você pode pedir a exclusão escrevendo para o mesmo endereço.
+O servidor necessariamente vê o endereço IP da conexão. Ele só o usa na memória para limitar
+abusos a cinco relatos por hora, não o registra e o esquece em até uma hora ou ao reiniciar. O
+relato é encaminhado por e-mail a `support@altrovelabs.net` e mantido apenas pelo tempo necessário
+para avaliá-lo. O provedor do serviço de e-mail só o processa para entregá-lo à Altrove Labs. O
+aplicativo mostra uma referência aleatória que você pode usar para pedir a exclusão. Os dados não
+são usados para outros fins.
 
 ## A permissão de microfone
 
@@ -75,8 +76,7 @@ arquivo, com confirmação. Desinstalar o aplicativo apaga tudo: configurações
 
 ## Menores
 
-O Aftervoice não é dirigido a menores de 13 anos e não coleta deliberadamente dados de ninguém,
-de nenhuma idade, porque não coleta dados.
+O Aftervoice não é dirigido a menores de 13 anos e não coleta deliberadamente dados deles.
 
 ## O áudio que o aplicativo gera
 
@@ -99,9 +99,9 @@ estava.
 Para dúvidas sobre esta política: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
 Responsável pelo tratamento: **Altrove Labs**. Os dados do diário e as gravações permanecem em
-seu poder e sob seu controle, no seu telefone. Tratamos apenas as comunicações que você decide
-enviar ao suporte; você pode exercer seus direitos previstos no GDPR escrevendo para o endereço
-acima.
+seu poder e sob seu controle, no seu telefone. Tratamos apenas os relatos e comunicações que
+você decide enviar; você pode exercer seus direitos previstos no GDPR escrevendo para o endereço
+acima e informando, para um relato anônimo, a referência.
 
 ## Alterações
 

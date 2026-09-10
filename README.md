@@ -33,6 +33,6 @@ gate and update the measured examples whenever that value changes.
 ## Why the text is checkable
 
 Every claim in the policy corresponds to a property of the release: permissions in the
-manifest, backup rules in `res/xml/`, storage under `filesDir`, and the mark applied before both
-speaker and recorder. Reporting opens a visible draft in the user's mail app with technical
-identifiers and no attachment; Aftervoice itself keeps no Internet permission.
+manifest, backup rules in `res/xml/`, storage under `filesDir`, the mark applied before both
+speaker and recorder, and the exact report payload. Reporting uses the network only after the
+user presses Send and never includes audio, microphone, diary text or a device identifier.

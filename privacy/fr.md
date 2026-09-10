@@ -6,14 +6,15 @@ title: Politique de confidentialité d'Aftervoice
 Dernière mise à jour : 10 septembre 2026.
 
 Aftervoice est un instrument pour des sessions d'écoute. Cette politique dit ce qu'il advient
-des données que l'application produit. Elle est courte parce que l'application fait peu de
-choses : ce qu'elle produit reste sur le téléphone.
+des données que l'application produit. Ce qu'elle produit reste sur le téléphone, sauf un
+signalement que vous choisissez explicitement d'envoyer.
 
 ## En bref
 
-Aftervoice n'a pas de comptes, pas de publicité, ne collecte aucune statistique d'usage et n'a
-pas la permission d'accéder au réseau. Rien de ce que vous enregistrez ou écrivez ne quitte
-votre téléphone, sauf si vous le partagez vous-même.
+Aftervoice n'a pas de comptes, de publicité ni de statistiques d'usage. Les enregistrements,
+la piste microphone, le journal, les notes, les repères et les données des capteurs ne sont
+jamais envoyés à nos serveurs. Le réseau sert aux banques vocales gérées par Google Play et,
+uniquement à votre demande, à un signalement textuel.
 
 ## Ce qui reste sur le téléphone
 
@@ -31,30 +32,30 @@ Ce sont des fichiers privés de l'application, dans son propre espace. Aucune au
 du téléphone ne peut les lire. L'application est exclue de la sauvegarde dans le cloud comme du
 transfert vers un nouveau téléphone : si vous changez d'appareil, le journal ne vous suit pas.
 
-## Ce qui ne quitte jamais le téléphone
+## Ce qui reste sur le téléphone
 
-Tout. L'application ne demande pas la permission d'accéder à internet, elle ne peut donc rien
-envoyer nulle part, ni par erreur ni après une mise à jour qui ne le dirait pas. Il n'y a pas
-d'outils d'analyse, pas de collecte de plantages, pas de publicité et aucune bibliothèque tierce
-qui parle à un serveur.
+Les enregistrements, le microphone, le journal, les réglages, les notes, les repères et les
+données des capteurs restent sur le téléphone. Il n'y a ni analyse, ni collecte de plantages,
+ni publicité, ni SDK de suivi. L'application contacte Altrove Labs uniquement lorsque vous
+appuyez sur **Envoyer le signalement**.
 
 Les rapports de plantage que l'auteur reçoit viennent de Google Play, agrégés et anonymes, et
 décrivent le comportement de l'application, jamais le contenu de vos sessions.
 
 ## Signalements et assistance
 
-Si vous touchez **Signaler** sur un enregistrement, Aftervoice ouvre un brouillon dans votre
-application de courrier. Il contient la version de l'application, la langue de l'interface et
-des identifiants aléatoires de session et d'enregistrement. Aucun audio, piste microphone, note
-ou repère n'est joint. Rien n'est envoyé tant que vous ne choisissez pas Envoyer dans
-l'application de courrier.
+Si vous touchez **Signaler** sur un enregistrement, vous écrivez le motif dans Aftervoice. Ce
+n'est qu'en appuyant sur **Envoyer le signalement** que l'application transmet à Altrove Labs,
+par HTTPS, ce texte, la version, la langue de l'interface et des identifiants aléatoires de
+session et d'enregistrement. Aucun audio, piste microphone, note, repère, identifiant d'appareil
+ou adresse électronique n'est envoyé.
 
-Si vous envoyez le message, votre fournisseur de courrier le transmet à Altrove Labs. Nous
-recevons alors l'adresse depuis laquelle vous écrivez, ce que vous ajoutez au message et les
-données techniques visibles dans le brouillon. Nous les utilisons uniquement pour répondre et
-améliorer ou modérer l'audio généré, ne les partageons pas à d'autres fins et les conservons
-seulement le temps nécessaire au traitement du signalement. Vous pouvez demander leur
-suppression en écrivant à la même adresse.
+Le serveur voit nécessairement l'adresse IP de la connexion. Il l'utilise uniquement en mémoire
+pour limiter les abus à cinq signalements par heure, ne la journalise pas et l'oublie sous une
+heure ou au redémarrage. Le signalement est transmis par courrier à
+`support@altrovelabs.net` et conservé seulement le temps de l'évaluer. L'application affiche une
+référence aléatoire permettant d'en demander la suppression. Le prestataire de messagerie ne le
+traite que pour le remettre à Altrove Labs. Les données ne sont pas utilisées à d'autres fins.
 
 ## La permission microphone
 
@@ -79,8 +80,7 @@ tout : réglages, journal et enregistrements.
 
 ## Les mineurs
 
-Aftervoice ne s'adresse pas aux moins de 13 ans et ne collecte délibérément les données de
-personne, à aucun âge, puisqu'elle ne collecte pas de données.
+Aftervoice ne s'adresse pas aux moins de 13 ans et ne collecte pas délibérément leurs données.
 
 ## L'audio que l'application génère
 
@@ -105,8 +105,9 @@ Pour toute question sur cette politique : [support@altrovelabs.net](mailto:suppo
 
 Responsable du traitement : **Altrove Labs**. Les données du journal et les enregistrements
 restent en votre possession et sous votre contrôle, sur votre téléphone. Nous traitons
-uniquement les communications que vous choisissez d'envoyer à l'assistance ; vous pouvez
-exercer vos droits RGPD en écrivant à l'adresse ci-dessus.
+uniquement les signalements et communications que vous choisissez d'envoyer ; vous pouvez
+exercer vos droits RGPD à l'adresse ci-dessus en indiquant, pour un signalement anonyme, sa
+référence.
 
 ## Modifications
 

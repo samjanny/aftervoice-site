@@ -6,14 +6,14 @@ title: Datenschutzerklärung von Aftervoice
 Letzte Änderung: 10. September 2026.
 
 Aftervoice ist ein Instrument für Hörsitzungen. Diese Erklärung sagt, was mit den Daten
-geschieht, die die App erzeugt. Sie ist kurz, weil die App wenig tut: was sie erzeugt, bleibt
-auf dem Telefon.
+geschieht, die die App erzeugt. Was sie erzeugt, bleibt auf dem Telefon, mit Ausnahme einer
+Meldung, die du ausdrücklich absendest.
 
 ## Kurz gesagt
 
-Aftervoice hat keine Konten, keine Werbung, erhebt keine Nutzungsstatistik und hat keine
-Berechtigung, ins Netz zu gehen. Nichts von dem, was du aufnimmst oder aufschreibst, verlässt
-dein Telefon, es sei denn, du teilst es selbst.
+Aftervoice hat keine Konten, Werbung oder Nutzungsstatistik. Aufnahmen, Mikrofonspur, Tagebuch,
+Notizen, Marken und Sensordaten werden nicht auf unsere Server hochgeladen. Der Netzzugang dient
+den von Google Play verwalteten Stimmenpaketen und, nur auf deinen Wunsch, einer Textmeldung.
 
 ## Was auf dem Telefon bleibt
 
@@ -30,28 +30,29 @@ Das sind private Dateien der App, in ihrem eigenen Speicher. Keine andere App au
 kann sie lesen. Die App ist sowohl von der Cloud-Sicherung als auch von der Übertragung auf ein
 neues Telefon ausgenommen: wenn du das Gerät wechselst, folgt dir das Tagebuch nicht.
 
-## Was das Telefon nie verlässt
+## Was auf dem Telefon bleibt
 
-Alles. Die App fragt nicht nach Internetzugriff und kann deshalb nichts irgendwohin senden,
-weder versehentlich noch nach einem Update, das es verschweigt. Es gibt keine Analysewerkzeuge,
-keine Absturzsammlung, keine Werbung und keine Bibliotheken Dritter, die mit einem Server
-sprechen.
+Aufnahmen, Mikrofon, Tagebuch, Einstellungen, Notizen, Marken und Sensordaten bleiben auf dem
+Telefon. Es gibt keine Analyse, Absturzsammlung, Werbung oder Tracking-SDKs. Die App kontaktiert
+Altrove Labs nur, wenn du auf **Meldung senden** tippst.
 
 Die Absturzberichte, die der Autor sieht, kommen von Google Play, aggregiert und anonym, und
 beschreiben, wie sich die App verhalten hat, nie, was deine Sitzungen enthielten.
 
 ## Meldungen und Support
 
-Wenn du bei einer Aufnahme auf **Melden** tippst, öffnet Aftervoice einen Entwurf in deiner
-E-Mail-App. Er enthält die App-Version, die Sprache der Oberfläche sowie zufällige Sitzungs- und
-Aufnahmekennungen. Audio, Mikrofonspur, Notizen oder Marken werden nicht angehängt. Es wird nichts
-gesendet, bis du in der E-Mail-App selbst auf Senden tippst.
+Wenn du bei einer Aufnahme auf **Melden** tippst, schreibst du den Grund in Aftervoice. Erst mit
+**Meldung senden** überträgt die App den Text, App-Version, Oberflächensprache und zufällige
+Sitzungs- und Aufnahmekennungen per HTTPS an Altrove Labs. Audio, Mikrofonspur, Notizen, Marken,
+Gerätekennung und E-Mail-Adresse werden nicht gesendet.
 
-Wenn du die Nachricht sendest, stellt dein E-Mail-Anbieter sie Altrove Labs zu. Wir erhalten
-dann deine Absenderadresse, deine Ergänzungen und die im Entwurf sichtbaren technischen Angaben.
-Wir verwenden sie nur, um zu antworten und erzeugtes Audio zu verbessern oder zu moderieren,
-geben sie nicht für andere Zwecke weiter und bewahren sie nur so lange auf, wie die Bearbeitung
-der Meldung es erfordert. Du kannst uns unter derselben Adresse um Löschung bitten.
+Der Server sieht zwangsläufig die IP-Adresse der Verbindung. Er nutzt sie nur im Arbeitsspeicher,
+um Missbrauch auf fünf Meldungen pro Stunde zu begrenzen, protokolliert sie nicht und vergisst
+sie innerhalb einer Stunde oder beim Neustart. Die Meldung wird als E-Mail an
+`support@altrovelabs.net` weitergeleitet und nur so lange gespeichert, wie ihre Prüfung dauert.
+Der E-Mail-Dienstleister verarbeitet sie nur, um sie an Altrove Labs zuzustellen. Die App zeigt
+eine zufällige Referenz, mit der du die Löschung verlangen kannst. Die Daten werden nicht für
+andere Zwecke verwendet.
 
 ## Die Mikrofonberechtigung
 
@@ -77,8 +78,7 @@ und Aufnahmen.
 
 ## Minderjährige
 
-Aftervoice richtet sich nicht an unter 13-Jährige und erhebt absichtlich von niemandem Daten, in
-keinem Alter, weil sie keine Daten erhebt.
+Aftervoice richtet sich nicht an unter 13-Jährige und erhebt nicht wissentlich deren Daten.
 
 ## Der Klang, den die App erzeugt
 
@@ -102,9 +102,9 @@ sie ist der Raum, in dem du warst.
 Für Fragen zu dieser Erklärung: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
 Verantwortlich für die Verarbeitung: **Altrove Labs**. Tagebuchdaten und Aufnahmen bleiben in
-deinem Besitz und unter deiner Kontrolle auf deinem Telefon. Wir verarbeiten nur Mitteilungen,
-die du selbst an den Support sendest; deine Rechte nach der DSGVO kannst du über die oben
-genannte Adresse ausüben.
+deinem Besitz und unter deiner Kontrolle auf deinem Telefon. Wir verarbeiten nur Meldungen und
+Mitteilungen, die du selbst sendest; deine Rechte nach der DSGVO kannst du über die oben
+genannte Adresse ausüben und bei einer anonymen Meldung ihre Referenz angeben.
 
 ## Änderungen
 

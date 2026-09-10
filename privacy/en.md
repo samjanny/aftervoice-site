@@ -6,12 +6,14 @@ title: Aftervoice privacy policy
 Last updated: 10 September 2026.
 
 Aftervoice is an instrument for listening sessions. This policy says what happens to the data
-the app produces. It is short because the app does little: what it makes stays on the phone.
+the app produces. What it makes stays on the phone, except for a report you explicitly choose
+to submit.
 
 ## In short
 
-Aftervoice has no accounts, no advertising, no usage analytics, and no permission to reach the
-network. Nothing you record or write leaves your phone unless you share it yourself.
+Aftervoice has no accounts, advertising or usage analytics. Recordings, the microphone track,
+diary, notes, bookmarks and sensor data are never uploaded to our servers. Network access is
+used for voice banks managed by Google Play and, only at your request, a text report.
 
 ## What stays on the phone
 
@@ -27,27 +29,28 @@ These are the app's private files, in its own storage. No other app on the phone
 The app opts out of both cloud backup and device-to-device transfer: if you move to a new
 phone, the diary does not follow you.
 
-## What never leaves the phone
+## What stays local
 
-All of it. The app does not request internet access, so it cannot send anything anywhere, not
-by accident and not after an update that fails to mention it. There are no analytics, no crash
-collection, no advertising, and no third-party libraries that talk to a server.
+Recordings, microphone audio, the diary, settings, notes, bookmarks and sensor data stay on the
+phone. There are no analytics, crash collection, advertising or tracking SDKs. The app contacts
+the Altrove Labs server only when you press **Send report**.
 
 The crash reports the author sees come from Google Play, aggregated and anonymous. They
 describe how the app behaved, never what your sessions contained.
 
 ## Reports and support
 
-If you tap **Report** on a recording, Aftervoice opens a draft in your email app. The draft
-contains the app version, interface language, and random session and recording identifiers. It
-attaches no audio, microphone track, note, or bookmark. Nothing is sent until you choose Send
-in the email app.
+If you tap **Report** on a recording, you write the reason inside Aftervoice. Only when you press
+**Send report**, the app sends Altrove Labs the text, app version, interface language and random
+session and recording identifiers over HTTPS. It sends no audio, microphone track, note,
+bookmark, device identifier or email address.
 
-If you send the message, your email provider delivers it to Altrove Labs. We then receive the
-address you write from, anything you add to the message, and the technical details visible in
-the draft. We use them only to respond and to improve or moderate generated audio, do not share
-them for other purposes, and keep them only as long as needed to handle the report. You may ask
-us to delete them by writing to the same address.
+The server necessarily sees the connection IP address. It uses it only in memory to limit abuse
+to five reports per hour, never logs it, and forgets it within one hour or on restart. The
+report is forwarded as an email to `support@altrovelabs.net` and retained only as long as needed
+to assess it. The email service provider processes it only to deliver it to Altrove Labs. The
+app shows a random reference you can use to request deletion by writing to support. The data is
+not used for other purposes.
 
 ## The microphone permission
 
@@ -71,8 +74,7 @@ with a confirmation. Uninstalling the app deletes everything: settings, diary an
 
 ## Children
 
-Aftervoice is not directed at children under 13, and it does not knowingly collect data about
-anyone of any age, because it does not collect data.
+Aftervoice is not directed at children under 13 and does not knowingly collect data about them.
 
 ## The audio the app generates
 
@@ -95,8 +97,9 @@ generated audio — it is the room you were in.
 Questions about this policy: [support@altrovelabs.net](mailto:support@altrovelabs.net).
 
 Data controller: **Altrove Labs**. Diary data and recordings remain in your hands and under
-your control, on your phone. We process only communications you choose to send to support; you
-can exercise your GDPR rights by writing to the address above.
+your control, on your phone. We process only reports and communications you choose to send;
+you can exercise your GDPR rights by writing to the address above and, for an anonymous report,
+providing its reference.
 
 ## Changes
 

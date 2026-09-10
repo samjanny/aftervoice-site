@@ -40,14 +40,15 @@ detector we publish and do not control the answer of.
 Nothing else about a session is interpreted for you. The app never shows you a word while you
 are listening: what you hear is yours to hear.
 
-## Nothing leaves the phone
+## The session stays on the phone
 
-No accounts, no advertising, no analytics, and no permission to reach the network. After the
-first voice download, the app has no way to send anything anywhere, by accident or otherwise.
+No accounts, advertising, analytics or tracking. Recordings, the microphone, diary, notes,
+bookmarks and sensor data are never uploaded. Only a generated-audio report you explicitly
+submit sends its text and minimal technical details to Altrove Labs; it never sends audio.
 
 The full [privacy policy](privacy/it.html) says it in detail, and every sentence in it
-corresponds to something checkable in the app: a permission that is not requested, a backup
-rule that excludes it, a folder that is private to the app.
+corresponds to something checkable in the app: the report payload, a backup rule that excludes
+the diary, and a folder that is private to the app.
 
 ## Practical
 
