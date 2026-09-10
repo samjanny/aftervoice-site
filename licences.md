@@ -19,7 +19,7 @@ has to remember to update.
 | `it_IT-giorgio` | Italian | CC BY 4.0 — model and dataset both declare it |
 | `it_IT-aurora-medium` | Italian | CC BY 4.0 — model and dataset both declare it |
 | `en_US-libritts-high` | English | CC BY 4.0 — trained on LibriTTS (openslr.org/60) |
-| `es_ES-carlfm-x_low` | Spanish | Public domain — trained from scratch on a public-domain corpus |
+| `es_ES-carlfm-x_low` | Spanish | MIT model — trained from scratch on a public-domain corpus |
 | `fr_FR-mls-medium` | French | CC BY 4.0 — trained from scratch on Multilingual LibriSpeech |
 | `de_DE-mls-medium` | German | CC BY 4.0 — trained from scratch on Multilingual LibriSpeech |
 
