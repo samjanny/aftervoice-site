@@ -92,19 +92,23 @@ evidence, and only of one thing: this audio was generated.
 
 ## Running it
 
-The detector is the `evp-mark` crate, MIT OR Apache-2.0.
+The detector is [`evp-mark`](https://github.com/samjanny/evp-mark), MIT OR Apache-2.0.
 
+```sh
+git clone https://github.com/samjanny/evp-mark
+cd evp-mark
+cargo run --release --bin detect-mark -- path/to/file.wav
 ```
-detect-mark path/to/file.wav
-```
 
-It prints the score and a verdict. Any WAV or any format your system can decode to one will
-do; the file does not have to come from us, and running it on audio that is not ours is the
-best way to see what a negative answer looks like.
+It prints the score and a verdict, and sets its exit status to match: 0 marked, 1 not marked or
+too little audio to say, 2 unreadable. `--json` gives the same answer to anything that has to
+act on it. Any WAV, or any format your system can decode to one, will do; the file does not have
+to come from us, and running it on audio that is not ours is the best way to see what a negative
+answer looks like.
 
-> The crate is being published alongside the app's first release. Until it is on crates.io,
-> the source of record is `crates/evp-mark` in the app's own repository, and this page will
-> carry the direct link the day it is up.
+Nothing in it reaches the network, and the pattern it compares against is derived from a key
+printed in the source. Two people running it on the same file get the same answer without either
+of them asking us for anything — which is the only sense in which a detector can be public.
 
 ## Why the mark exists
 

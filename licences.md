@@ -42,8 +42,9 @@ licenze**.
 
 ## Ours
 
-**`evp-mark`**, the watermarking and detection crate, is published under MIT OR Apache-2.0 so
-that anyone can verify our audio without our help. See [Checking the mark](detector.html).
+**[`evp-mark`](https://github.com/samjanny/evp-mark)**, the watermarking and detection crate, is
+published under MIT OR Apache-2.0 so that anyone can verify our audio without our help. See
+[Checking the mark](detector.html) for what it does and how to run it.
 
 The rest of the app is not open source.
 
