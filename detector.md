@@ -17,7 +17,7 @@ A spread-spectrum watermark in the sound itself, not a tag attached to the file.
 
 The audio is cut into overlapping windows of 2048 samples at 48 kHz. In each window, a
 pseudo-random pattern decides which frequency bins are nudged slightly louder and which
-slightly quieter — about 0.7 dB, in a band where a small change is least likely to be heard
+slightly quieter — about 1.6 dB, in a band where a small change is least likely to be heard
 and least likely to be destroyed. The pattern comes from a fixed key, so a detector can
 re-derive it and ask how strongly a file agrees with it.
 

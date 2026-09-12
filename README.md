@@ -27,8 +27,9 @@ custom domain and add a DNS `CNAME` record from `aftervoice.altrovelabs.net` to
 The public contact is `support@altrovelabs.net` and the data controller is Altrove Labs. Verify
 that the mailbox receives mail before publishing.
 
-The current watermark strength is approximately 0.7 dB (`alpha = 0.085`). Repeat the listening
-gate and update the measured examples whenever that value changes.
+The current watermark strength is approximately 1.6 dB (`alpha = 0.20`), selected by the
+listening gate on 2026-09-12. Repeat the gate and update the measured examples whenever that
+value changes.
 
 ## Why the text is checkable
 
