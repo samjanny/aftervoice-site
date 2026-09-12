@@ -1,8 +1,8 @@
 # The public Aftervoice site
 
-These files are the source of `https://aftervoice.altrovelabs.net/`. They stay here until the
-public `aftervoice-site` repository exists: the app core remains private while the policy,
-support information and detector documentation remain public and versioned.
+These files are the canonical source of `https://aftervoice.altrovelabs.net/`. The app core
+remains private while the policy, support information and detector documentation remain public
+and versioned here.
 
 ```
 index.md             product page
